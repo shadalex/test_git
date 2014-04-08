@@ -1,1 +1,5 @@
-git rm --cached readme.txt
+test
+
+test2
+
+test 3
